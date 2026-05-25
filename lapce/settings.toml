@@ -1,0 +1,15 @@
+[core]
+color-theme = "Tokyo Night OLED"
+
+[terminal]
+
+[terminal.default-profile]
+linux = "bash"
+
+[terminal.profiles.bash]
+command = "/bin/bash"
+arguments = ["-l"]
+
+[editor]
+autosave-interval = 625
+
